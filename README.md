@@ -1,6 +1,9 @@
 # kirby-wacky-episode-WebPort
 A Web Port of https://alexaugerdev-z.itch.io/kirby-wacky-episode
 
+## Usage
+Go to https://nick088official.github.io/kirby-wacky-episode-WebPort/runner/runner.html and enjoy! (NO MOBILE SUPPORT, atleast for now if it will ever be added)
+
 ## How?
 1. Get the Project Files via https://alexaugerdev-z.itch.io/kirby-wacky-episode and extract them.
 2. Download & Install GameMaker Studio 2 LTS 2022.0.3.85, either via [Release Notes](https://gms.yoyogames.com/ReleaseNotes-LTS.html), or Direct Links for [Windows](https://gms.yoyogames.com/GameMaker-Installer-2022.0.3.85.exe) & [Mac](https://gms.yoyogames.com/GameMaker-2022.0.3.85.pkg).
