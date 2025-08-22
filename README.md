@@ -75,6 +75,7 @@ If you only want the standard desktop web port, you can **skip to Part C**. To c
     alt_button = [sys_btn_x, sys_btn_y_start+2*(sys_btn_h+margin), sys_btn_w, sys_btn_h];
     up_pressed=false; down_pressed=false; left_pressed=false; right_pressed=false; z_pressed=false; x_pressed=false; c_pressed=false; space_pressed=false; alt_pressed=false; shift_pressed=false; enter_pressed=false;
     was_up_pressed=false; was_down_pressed=false; was_left_pressed=false; was_right_pressed=false; was_z_pressed=false; was_x_pressed=false; was_c_pressed=false; was_space_pressed=false; was_alt_pressed=false; was_shift_pressed=false; was_enter_pressed=false;
+    img_spd = 0; // Compatibility variable for the pause menu
     ```
 4.  Add an **End Step Event** and paste this code:
     ```gml
